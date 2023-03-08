@@ -31,3 +31,7 @@ header > p {
     width: 150px;
     border-radius: 50%;
 }
+
+header div p a {
+color:purple
+}
