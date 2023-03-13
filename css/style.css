@@ -40,6 +40,12 @@ color:purple
     border-bottom: 2px dashed #ccc;
 }
 
-main,section {
+main>section {
     margin-bottom: 3rem;
+}
+ main section h2 + p strong  {
+    color: purple;
+}
+li:nth-child(2){
+    color: purple;
 }
