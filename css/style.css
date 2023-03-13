@@ -49,3 +49,7 @@ main>section {
 li:nth-child(2){
     color: purple;
 }
+
+dl :last-child :last-of-type {
+    background-color: #ccc;
+}
