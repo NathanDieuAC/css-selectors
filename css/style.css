@@ -35,3 +35,11 @@ header > p {
 header div p a {
 color:purple
 }
+
+#experience:first-of-type{
+    border-bottom: 2px dashed #ccc;
+}
+
+main,section {
+    margin-bottom: 3rem;
+}
